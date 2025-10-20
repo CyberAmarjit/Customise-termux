@@ -1,10 +1,5 @@
 # Customise-termux
 
-```bash
-git clone
-```
-
-
 
 ```bash
-curl -sLO https://github.com/CyberAmarjit/termuxvoid-installer/raw/main/install.sh && bash install.sh ```
+curl -sLO https://github.com/CyberAmarjit/Customise-termux.git/raw/main/install.sh && bash install.sh ```
